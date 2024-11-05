@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aniruage.github.io/HeK/sitemap_index.txt
+Sitemap: https://aniruage.github.io/VmG/sitemap_index.txt
+Sitemap: https://aniruage.github.io/dFU/sitemap_index.txt
+Sitemap: https://aniruage.github.io/mkl/sitemap_index.txt
